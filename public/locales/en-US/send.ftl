@@ -1,4 +1,3 @@
-# Firefox Send is a brand name and should not be localized.
 title = ChoiCloud Send
 importingFile = Importing…
 encryptingFile = Encrypting…
@@ -17,7 +16,7 @@ unlockButtonLabel = Unlock
 downloadButtonLabel = Download
 downloadFinish = Download complete
 fileSizeProgress = ({ $partialSize } of { $totalSize })
-sendYourFilesLink = Try Firefox Send
+sendYourFilesLink = Try ChoiCloud Send
 errorPageHeader = Something went wrong!
 fileTooBig = That file is too big to upload. It should be less than { $size }
 linkExpiredAlt = Link expired
