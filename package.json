@@ -1,10 +1,10 @@
 {
-  "name": "firefox-send",
+  "name": "choicloud-send",
   "description": "File Sharing Experiment",
   "version": "3.0.22",
-  "author": "Mozilla (https://mozilla.org)",
-  "repository": "mozilla/send",
-  "homepage": "https://github.com/mozilla/send/",
+  "author": "Moz",
+  "repository": "roals/send",
+  "homepage": "https://github.com/roals/send/",
   "license": "MPL-2.0",
   "private": true,
   "scripts": {
